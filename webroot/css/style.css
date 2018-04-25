@@ -1,0 +1,114 @@
+body{
+
+	font-family: 'Lato', sans-serif!important;
+}
+.logo{
+	width: 85%;
+	margin-left: 104px;
+	text-align: center;
+	display: inline-block;
+	margin-top: 160px;
+}
+
+.meteo{
+	width: 300px;
+	padding: 0px;
+	margin-top: 113px;
+}
+
+.date {
+	text-decoration: underline;
+	font-style: italic;
+	font-size: 25px!important;
+	float: left;
+	text-decoration: none!important;
+	margin-top: 10px!important;
+}
+
+.bienvenue{
+	font-size: 449%;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	text-align: center;
+}
+
+.info{
+	font-size: 30px;
+	font-family: "Lato",sans-serif;
+	font-weight: 300;
+	text-align: center;
+}
+
+.inter{
+	font-family: "Lato",sans-serif;
+	font-weight: 300;
+	font-size: 139px;
+}
+span{
+	color: #ED1C24;
+}
+
+#div_horloge{
+	font-size: 5em;
+	color: #ED1C24;
+	position: absolute;margin-top: 60px;
+}
+
+#jour3 .jour {
+	width: 150px;
+	height: 122px;
+	float: left;
+	position: relative;
+	background: #3B3B3B;
+}
+
+.aujourdhui {
+	height: 122px;
+	position: relative;
+	background: rgb(59, 59, 59) none repeat scroll 0% 0%;
+	border-bottom: solid 2px #ED1C24;
+}
+.aujourdhui .date {
+	position: absolute;
+	left: 10px!important;
+	top: 3px!important;
+	font-size: 19px!important;
+}
+
+#infobulle {
+	display: none!important;
+}
+
+.gras{
+	font-weight: 300;
+}
+
+.produits{
+	margin-top: 30px;
+}
+
+.item{
+	margin: 5px;
+}
+
+.promo-h1{
+	font-family: "Lato",sans-serif;
+	text-align: center;
+	font-size: 63px;
+	font-weight: 300;
+}
+
+.date_le{
+	font-size: 19px;
+	margin-left: -3px;
+	margin-top: 105px;
+	margin-bottom: -110px;
+	text-align: center;
+}
+
+.prix_fou{
+	background: rgb(237, 28, 36) none repeat scroll 0% 0%;
+	text-align: center;
+	color: rgb(255, 255, 255);
+}
+
