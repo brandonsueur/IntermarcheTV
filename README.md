@@ -15,7 +15,7 @@ to know more about me and he immediately gave me a task to do. worked the televi
 Do not hesitate, it's free !
 
 - 💬  Chat : Join me on [Discord](https://discord.gg/tRse4qu)
-- 📣  News : Follow me on [Twitter](https://twitter.com/gynidark)
+- 📣  News : Follow me on [Twitter](https://twitter.com/_brandonsueur)
 
 ### 📖  License
 The project is available as open source under the terms of the MIT License.
